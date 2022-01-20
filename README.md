@@ -1,3 +1,3 @@
-# superai-handwritten-digit-hackathon-top3-solution
+# superai-handwritten-digit-hackathon-solution
 
 ## Comming soon!
