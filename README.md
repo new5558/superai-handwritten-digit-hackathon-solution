@@ -2,6 +2,9 @@
 
 ## Full Readme comming soon!
 
+## Results
+- **Ranked #3 amongs 50 teams** participating the [Kaggle hackathon](https://www.kaggle.com/c/super-ai-engineer-2021-handwritten-digit/leaderboard). 
+- Scored 0.31059 and 0.30506 in private and public leaderboard
 
 
 ![image](https://user-images.githubusercontent.com/12471844/150430067-9803afec-c5d0-4ce8-b9f0-0bb4197dd049.png)
