@@ -15,6 +15,10 @@ ____
 ____
 ![image](https://user-images.githubusercontent.com/12471844/150430173-38fd246e-34a7-43d2-9b7a-dc9e04ab66d3.png)
 
+## Labels
+Because the competition has submission limit, we manually labelled the 870 samples competition datasets for testing purpose only. The labels are provided in this repository as `labels.csv`
+
+
 ## Contributors
 - Norapat Buppodom: Modeling and Programming [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/norapat-buppodom/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/new5558)
 - Teeraphong Kanchanakantikul: Modeling and Visualization [🏆 Kaggle](https://github.com/new5558)
