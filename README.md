@@ -17,7 +17,9 @@ ____
 
 ## Contributors
 - Norapat Buppodom: Modeling and Programming [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/norapat-buppodom/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/new5558)
-- Khun Threeraphong: Modeling and Visualization
+- Teeraphong Kanchanakantikul: Modeling and Visualization [🏆 Kaggle](https://github.com/new5558)
+
+https://www.kaggle.com/kengmut
 
 ## Credits
 - [Super AI Engineer program](https://superai.aiat.or.th/) for creating this program/competition and kindly support the development of AI Engineers in Thailand.
